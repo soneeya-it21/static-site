@@ -1,4 +1,5 @@
 🌎 Static Website Deployment with S3 + Cloudflare + GitHub Actions
+
 This project demonstrates how to host and auto-deploy a static website using AWS S3, Cloudflare, and GitHub Actions, ensuring global delivery with HTTPS security.
 
 📚 Project Overview
